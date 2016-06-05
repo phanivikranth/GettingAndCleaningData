@@ -1,4 +1,5 @@
 Get the data
+
 1.Download the file and put the file in the data folder
 ```r
 if(!file.exists("data")){dir.create("data")}
