@@ -18,7 +18,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Steps to reproduce this project
+## Steps to reproduce this project
 
 Open the R script run_analysis.r using a text editor.
 Change the directory to the folder where these the R script file is saved using setwd().
