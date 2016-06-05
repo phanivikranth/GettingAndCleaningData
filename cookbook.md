@@ -13,7 +13,7 @@ unzip(zipfile="data/Dataset.zip",exdir="data")
 ```
 3.unzipped files are in the folderUCI HAR Dataset. Get the list of the files
 ```r
-path_rf <- file.path("./data" , "UCI HAR Dataset")
+path_rf <- file.path("data" , "UCI HAR Dataset")
 files<-list.files(path_rf, recursive=TRUE)
 files
 ```
